@@ -1,5 +1,11 @@
 # viem
 
+## 2.23.16
+
+### Patch Changes
+
+- [#3497](https://github.com/wevm/viem/pull/3497) [`512ee19fdaf309d2ec607e024ecdb08ffbde5f68`](https://github.com/wevm/viem/commit/512ee19fdaf309d2ec607e024ecdb08ffbde5f68) Thanks [@DiRaiks](https://github.com/DiRaiks)! - Changed Hoodi block explorer to Etherscan.
+
 ## 2.23.15
 
 ### Patch Changes
